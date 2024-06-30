@@ -1,4 +1,4 @@
-# React To Do List 🗒️
+# React To Do List 🗒️ ✅
 
 ![Badge in progress](https://img.shields.io/badge/STATUS-DONE-green)
 
@@ -34,11 +34,6 @@ npm run dev
 - React JS
 - React Router Dom V6
 - Tailwind
-
-```
-
-
-```
 
 ## Web site display
 
