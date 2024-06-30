@@ -41,7 +41,7 @@ const TodoListCompleted = () => {
 
       <div>
         <h2 className="text-2xl mb-2">Lista de TO DOs</h2>
-        <ul className="space-y-2 max-h-dvh overflow-y-scroll">
+        <ul className="space-y-2 max-h-dvh">
           {todos.map((todo, index) => (
             <li
               key={index}
