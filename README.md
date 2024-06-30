@@ -1,8 +1,12 @@
-# React To Do List
+# React To Do List 🗒️
 
-This is a very simple todo list application written using React.js + vite
+![Badge in progress](https://img.shields.io/badge/STATUS-DONE-green)
 
-The `node_modules` have not been uploaded.
+## Description of project
+
+This project is a straightforward TODO list application built using React.js and Vite. It provides essential functionalities for managing tasks, including creating, editing, and deleting TODOs. Additionally, it features navigation capabilities with React Router Dom v6, ensuring a smooth user experience with page transitions and unique views for each TODO. The application also leverages Tailwind CSS for responsive and modern design.
+
+Please note that the `node_modules` directory has not been included in the repository to keep the project lightweight.
 
 ## How to Install and Run the Project
 
